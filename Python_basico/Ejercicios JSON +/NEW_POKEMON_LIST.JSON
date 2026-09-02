@@ -1,0 +1,1301 @@
+[
+    {
+        "name": "Bulbasaur",
+        "Type": ["Grass", "Poison"],
+        "level": 12,
+        "base_stats": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Special Attack": 65,
+            "Special Defense": 65,
+            "Speed": 45
+        }
+    },
+    {
+        "name": "Ivysaur",
+        "Type": ["Grass", "Poison"],
+        "level": 32,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 62,
+            "Defense": 63,
+            "Special Attack": 80,
+            "Special Defense": 80,
+            "Speed": 60
+        }
+    },
+    {
+        "name": "Venusaur",
+        "Type": ["Grass", "Poison"],
+        "level": 55,
+        "base_stats": {
+            "HP": 80,
+            "Attack": 82,
+            "Defense": 83,
+            "Special Attack": 100,
+            "Special Defense": 100,
+            "Speed": 80
+        }
+    },
+    {
+        "name": "Charmander",
+        "Type": ["Fire"],
+        "level": 10,
+        "base_stats": {
+            "HP": 39,
+            "Attack": 52,
+            "Defense": 43,
+            "Special Attack": 60,
+            "Special Defense": 50,
+            "Speed": 65
+        }
+    },
+    {
+        "name": "Charmeleon",
+        "Type": ["Fire"],
+        "level": 28,
+        "base_stats": {
+            "HP": 58,
+            "Attack": 64,
+            "Defense": 58,
+            "Special Attack": 80,
+            "Special Defense": 65,
+            "Speed": 80
+        }
+    },
+    {
+        "name": "Charizard",
+        "Type": ["Fire", "Flying"],
+        "level": 52,
+        "base_stats": {
+            "HP": 78,
+            "Attack": 84,
+            "Defense": 78,
+            "Special Attack": 109,
+            "Special Defense": 85,
+            "Speed": 100
+        }
+    },
+    {
+        "name": "Squirtle",
+        "Type": ["Water"],
+        "level": 9,
+        "base_stats": {
+            "HP": 44,
+            "Attack": 48,
+            "Defense": 65,
+            "Special Attack": 50,
+            "Special Defense": 64,
+            "Speed": 43
+        }
+    },
+    {
+        "name": "Wartortle",
+        "Type": ["Water"],
+        "level": 27,
+        "base_stats": {
+            "HP": 59,
+            "Attack": 63,
+            "Defense": 80,
+            "Special Attack": 65,
+            "Special Defense": 80,
+            "Speed": 58
+        }
+    },
+    {
+        "name": "Blastoise",
+        "Type": ["Water"],
+        "level": 50,
+        "base_stats": {
+            "HP": 79,
+            "Attack": 83,
+            "Defense": 100,
+            "Special Attack": 85,
+            "Special Defense": 105,
+            "Speed": 78
+        }
+    },
+    {
+        "name": "Caterpie",
+        "Type": ["Bug"],
+        "level": 6,
+        "base_stats": {
+            "HP": 45,
+            "Attack": 30,
+            "Defense": 35,
+            "Special Attack": 20,
+            "Special Defense": 20,
+            "Speed": 45
+        }
+    },
+    {
+        "name": "Metapod",
+        "Type": ["Bug"],
+        "level": 12,
+        "base_stats": {
+            "HP": 50,
+            "Attack": 20,
+            "Defense": 55,
+            "Special Attack": 25,
+            "Special Defense": 25,
+            "Speed": 30
+        }
+    },
+    {
+        "name": "Butterfree",
+        "Type": ["Bug", "Flying"],
+        "level": 28,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 45,
+            "Defense": 50,
+            "Special Attack": 90,
+            "Special Defense": 80,
+            "Speed": 70
+        }
+    },
+    {
+        "name": "Weedle",
+        "Type": ["Bug", "Poison"],
+        "level": 5,
+        "base_stats": {
+            "HP": 40,
+            "Attack": 35,
+            "Defense": 30,
+            "Special Attack": 20,
+            "Special Defense": 20,
+            "Speed": 50
+        }
+    },
+    {
+        "name": "Kakuna",
+        "Type": ["Bug", "Poison"],
+        "level": 11,
+        "base_stats": {
+            "HP": 45,
+            "Attack": 25,
+            "Defense": 50,
+            "Special Attack": 25,
+            "Special Defense": 25,
+            "Speed": 35
+        }
+    },
+    {
+        "name": "Beedrill",
+        "Type": ["Bug", "Poison"],
+        "level": 30,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 90,
+            "Defense": 40,
+            "Special Attack": 45,
+            "Special Defense": 80,
+            "Speed": 75
+        }
+    },
+    {
+        "name": "Pidgey",
+        "Type": ["Normal", "Flying"],
+        "level": 8,
+        "base_stats": {
+            "HP": 40,
+            "Attack": 45,
+            "Defense": 40,
+            "Special Attack": 35,
+            "Special Defense": 35,
+            "Speed": 56
+        }
+    },
+    {
+        "name": "Pidgeotto",
+        "Type": ["Normal", "Flying"],
+        "level": 25,
+        "base_stats": {
+            "HP": 63,
+            "Attack": 60,
+            "Defense": 55,
+            "Special Attack": 50,
+            "Special Defense": 50,
+            "Speed": 71
+        }
+    },
+    {
+        "name": "Pidgeot",
+        "Type": ["Normal", "Flying"],
+        "level": 48,
+        "base_stats": {
+            "HP": 83,
+            "Attack": 80,
+            "Defense": 75,
+            "Special Attack": 70,
+            "Special Defense": 70,
+            "Speed": 101
+        }
+    },
+    {
+        "name": "Rattata",
+        "Type": ["Normal"],
+        "level": 7,
+        "base_stats": {
+            "HP": 30,
+            "Attack": 56,
+            "Defense": 35,
+            "Special Attack": 25,
+            "Special Defense": 35,
+            "Speed": 72
+        }
+    },
+    {
+        "name": "Raticate",
+        "Type": ["Normal"],
+        "level": 29,
+        "base_stats": {
+            "HP": 55,
+            "Attack": 81,
+            "Defense": 60,
+            "Special Attack": 50,
+            "Special Defense": 70,
+            "Speed": 97
+        }
+    },
+    {
+        "name": "Spearow",
+        "Type": ["Normal", "Flying"],
+        "level": 9,
+        "base_stats": {
+            "HP": 40,
+            "Attack": 60,
+            "Defense": 30,
+            "Special Attack": 31,
+            "Special Defense": 31,
+            "Speed": 70
+        }
+    },
+    {
+        "name": "Fearow",
+        "Type": ["Normal", "Flying"],
+        "level": 33,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 90,
+            "Defense": 65,
+            "Special Attack": 61,
+            "Special Defense": 61,
+            "Speed": 100
+        }
+    },
+    {
+        "name": "Ekans",
+        "Type": ["Poison"],
+        "level": 14,
+        "base_stats": {
+            "HP": 35,
+            "Attack": 60,
+            "Defense": 44,
+            "Special Attack": 40,
+            "Special Defense": 54,
+            "Speed": 55
+        }
+    },
+    {
+        "name": "Arbok",
+        "Type": ["Poison"],
+        "level": 38,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 95,
+            "Defense": 69,
+            "Special Attack": 65,
+            "Special Defense": 79,
+            "Speed": 80
+        }
+    },
+    {
+        "name": "Pikachu",
+        "Type": ["Electric"],
+        "level": 18,
+        "base_stats": {
+            "HP": 35,
+            "Attack": 55,
+            "Defense": 40,
+            "Special Attack": 50,
+            "Special Defense": 50,
+            "Speed": 90
+        }
+    },
+    {
+        "name": "Raichu",
+        "Type": ["Electric"],
+        "level": 42,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 90,
+            "Defense": 55,
+            "Special Attack": 90,
+            "Special Defense": 80,
+            "Speed": 110
+        }
+    },
+    {
+        "name": "Sandshrew",
+        "Type": ["Ground"],
+        "level": 13,
+        "base_stats": {
+            "HP": 50,
+            "Attack": 75,
+            "Defense": 85,
+            "Special Attack": 20,
+            "Special Defense": 30,
+            "Speed": 40
+        }
+    },
+    {
+        "name": "Sandslash",
+        "Type": ["Ground"],
+        "level": 36,
+        "base_stats": {
+            "HP": 75,
+            "Attack": 100,
+            "Defense": 110,
+            "Special Attack": 45,
+            "Special Defense": 55,
+            "Speed": 65
+        }
+    },
+    {
+        "name": "Nidoran♀",
+        "Type": ["Poison"],
+        "level": 11,
+        "base_stats": {
+            "HP": 55,
+            "Attack": 47,
+            "Defense": 52,
+            "Special Attack": 40,
+            "Special Defense": 40,
+            "Speed": 41
+        }
+    },
+    {
+        "name": "Nidorina",
+        "Type": ["Poison"],
+        "level": 26,
+        "base_stats": {
+            "HP": 70,
+            "Attack": 62,
+            "Defense": 67,
+            "Special Attack": 55,
+            "Special Defense": 55,
+            "Speed": 56
+        }
+    },
+    {
+        "name": "Nidoqueen",
+        "Type": ["Poison", "Ground"],
+        "level": 48,
+        "base_stats": {
+            "HP": 90,
+            "Attack": 92,
+            "Defense": 87,
+            "Special Attack": 75,
+            "Special Defense": 85,
+            "Speed": 76
+        }
+    },
+    {
+        "name": "Nidoran♂",
+        "Type": ["Poison"],
+        "level": 12,
+        "base_stats": {
+            "HP": 46,
+            "Attack": 57,
+            "Defense": 40,
+            "Special Attack": 40,
+            "Special Defense": 40,
+            "Speed": 50
+        }
+    },
+    {
+        "name": "Nidorino",
+        "Type": ["Poison"],
+        "level": 27,
+        "base_stats": {
+            "HP": 61,
+            "Attack": 72,
+            "Defense": 57,
+            "Special Attack": 55,
+            "Special Defense": 55,
+            "Speed": 65
+        }
+    },
+    {
+        "name": "Nidoking",
+        "Type": ["Poison", "Ground"],
+        "level": 49,
+        "base_stats": {
+            "HP": 81,
+            "Attack": 102,
+            "Defense": 77,
+            "Special Attack": 85,
+            "Special Defense": 75,
+            "Speed": 85
+        }
+    },
+    {
+        "name": "Clefairy",
+        "Type": ["Fairy"],
+        "level": 20,
+        "base_stats": {
+            "HP": 70,
+            "Attack": 45,
+            "Defense": 48,
+            "Special Attack": 60,
+            "Special Defense": 65,
+            "Speed": 35
+        }
+    },
+    {
+        "name": "Clefable",
+        "Type": ["Fairy"],
+        "level": 44,
+        "base_stats": {
+            "HP": 95,
+            "Attack": 70,
+            "Defense": 73,
+            "Special Attack": 95,
+            "Special Defense": 90,
+            "Speed": 60
+        }
+    },
+    {
+        "name": "Vulpix",
+        "Type": ["Fire"],
+        "level": 16,
+        "base_stats": {
+            "HP": 38,
+            "Attack": 41,
+            "Defense": 40,
+            "Special Attack": 50,
+            "Special Defense": 65,
+            "Speed": 65
+        }
+    },
+    {
+        "name": "Ninetales",
+        "Type": ["Fire"],
+        "level": 45,
+        "base_stats": {
+            "HP": 73,
+            "Attack": 76,
+            "Defense": 75,
+            "Special Attack": 81,
+            "Special Defense": 100,
+            "Speed": 100
+        }
+    },
+    {
+        "name": "Jigglypuff",
+        "Type": ["Normal", "Fairy"],
+        "level": 14,
+        "base_stats": {
+            "HP": 115,
+            "Attack": 45,
+            "Defense": 20,
+            "Special Attack": 45,
+            "Special Defense": 25,
+            "Speed": 20
+        }
+    },
+    {
+        "name": "Wigglytuff",
+        "Type": ["Normal", "Fairy"],
+        "level": 40,
+        "base_stats": {
+            "HP": 140,
+            "Attack": 70,
+            "Defense": 45,
+            "Special Attack": 85,
+            "Special Defense": 50,
+            "Speed": 45
+        }
+    },
+    {
+        "name": "Zubat",
+        "Type": ["Poison", "Flying"],
+        "level": 10,
+        "base_stats": {
+            "HP": 40,
+            "Attack": 45,
+            "Defense": 35,
+            "Special Attack": 30,
+            "Special Defense": 40,
+            "Speed": 55
+        }
+    },
+    {
+        "name": "Golbat",
+        "Type": ["Poison", "Flying"],
+        "level": 34,
+        "base_stats": {
+            "HP": 75,
+            "Attack": 80,
+            "Defense": 70,
+            "Special Attack": 65,
+            "Special Defense": 75,
+            "Speed": 90
+        }
+    },
+    {
+        "name": "Oddish",
+        "Type": ["Grass", "Poison"],
+        "level": 13,
+        "base_stats": {
+            "HP": 45,
+            "Attack": 50,
+            "Defense": 55,
+            "Special Attack": 75,
+            "Special Defense": 65,
+            "Speed": 30
+        }
+    },
+    {
+        "name": "Gloom",
+        "Type": ["Grass", "Poison"],
+        "level": 27,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 65,
+            "Defense": 70,
+            "Special Attack": 85,
+            "Special Defense": 75,
+            "Speed": 40
+        }
+    },
+    {
+        "name": "Vileplume",
+        "Type": ["Grass", "Poison"],
+        "level": 47,
+        "base_stats": {
+            "HP": 75,
+            "Attack": 80,
+            "Defense": 85,
+            "Special Attack": 110,
+            "Special Defense": 90,
+            "Speed": 50
+        }
+    },
+    {
+        "name": "Paras",
+        "Type": ["Bug", "Grass"],
+        "level": 12,
+        "base_stats": {
+            "HP": 35,
+            "Attack": 70,
+            "Defense": 55,
+            "Special Attack": 45,
+            "Special Defense": 55,
+            "Speed": 25
+        }
+    },
+    {
+        "name": "Parasect",
+        "Type": ["Bug", "Grass"],
+        "level": 37,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 95,
+            "Defense": 80,
+            "Special Attack": 60,
+            "Special Defense": 80,
+            "Speed": 30
+        }
+    },
+    {
+        "name": "Venonat",
+        "Type": ["Bug", "Poison"],
+        "level": 18,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 55,
+            "Defense": 50,
+            "Special Attack": 40,
+            "Special Defense": 55,
+            "Speed": 45
+        }
+    },
+    {
+        "name": "Venomoth",
+        "Type": ["Bug", "Poison"],
+        "level": 41,
+        "base_stats": {
+            "HP": 70,
+            "Attack": 65,
+            "Defense": 60,
+            "Special Attack": 90,
+            "Special Defense": 75,
+            "Speed": 90}        }
+    },
+    {
+        "name": "Electrode",
+        "Type": ["Electric"],
+        "level": 46,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 50,
+            "Defense": 70,
+            "Special Attack": 80,
+            "Special Defense": 80,
+            "Speed": 150
+        }
+    },
+    {
+    "name": "Exeggcute",
+    "Type": ["Grass", "Psychic"],
+    "level": 18,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 40,
+            "Defense": 80,
+            "Special Attack": 60,
+            "Special Defense": 45,
+            "Speed": 40
+        }
+    },
+    {
+        "name": "Exeggutor",
+        "Type": ["Grass", "Psychic"],
+        "level": 48,
+        "base_stats": {
+            "HP": 95,
+            "Attack": 95,
+            "Defense": 85,
+            "Special Attack": 125,
+            "Special Defense": 75,
+            "Speed": 55
+        }
+    },
+    {
+        "name": "Cubone",
+        "Type": ["Ground"],
+        "level": 17,
+        "base_stats": {
+            "HP": 50,
+            "Attack": 50,
+            "Defense": 95,
+            "Special Attack": 40,
+            "Special Defense": 50,
+            "Speed": 35
+        }
+    },
+    {
+        "name": "Marowak",
+        "Type": ["Ground"],
+        "level": 41,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 80,
+            "Defense": 110,
+            "Special Attack": 50,
+            "Special Defense": 80,
+            "Speed": 45
+        }
+    },
+    {
+        "name": "Hitmonlee",
+        "Type": ["Fighting"],
+        "level": 50,
+        "base_stats": {
+            "HP": 50,
+            "Attack": 120,
+            "Defense": 53,
+            "Special Attack": 35,
+            "Special Defense": 110,
+            "Speed": 87
+        }
+    },
+    {
+        "name": "Hitmonchan",
+        "Type": ["Fighting"],
+        "level": 50,
+        "base_stats": {
+            "HP": 50,
+            "Attack": 105,
+            "Defense": 79,
+            "Special Attack": 35,
+            "Special Defense": 110,
+            "Speed": 76
+        }
+    },
+    {
+        "name": "Lickitung",
+        "Type": ["Normal"],
+        "level": 38,
+        "base_stats": {
+            "HP": 90,
+            "Attack": 55,
+            "Defense": 75,
+            "Special Attack": 60,
+            "Special Defense": 75,
+            "Speed": 30
+        }
+    },
+    {
+        "name": "Koffing",
+        "Type": ["Poison"],
+        "level": 19,
+            "base_stats": {
+            "HP": 40,
+            "Attack": 65,
+            "Defense": 95,
+            "Special Attack": 60,
+            "Special Defense": 45,
+            "Speed": 35
+        }
+    },
+    {
+        "name": "Weezing",
+        "Type": ["Poison"],
+        "level": 44,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 90,
+            "Defense": 120,
+            "Special Attack": 85,
+            "Special Defense": 70,
+            "Speed": 60
+        }
+    },
+    {
+        "name": "Rhyhorn",
+        "Type": ["Ground", "Rock"],
+        "level": 20,
+        "base_stats": {
+            "HP": 80,
+            "Attack": 85,
+            "Defense": 95,
+            "Special Attack": 30,
+            "Special Defense": 30,
+            "Speed": 25
+        }
+    },
+    {
+        "name": "Rhydon",
+        "Type": ["Ground", "Rock"],
+        "level": 49,
+        "base_stats": {
+            "HP": 105,
+            "Attack": 130,
+            "Defense": 120,
+            "Special Attack": 45,
+            "Special Defense": 45,
+            "Speed": 40
+        }
+    },
+    {
+        "name": "Chansey",
+        "Type": ["Normal"],
+        "level": 55,
+        "base_stats": {
+            "HP": 250,
+            "Attack": 5,
+            "Defense": 5,
+            "Special Attack": 35,
+            "Special Defense": 105,
+            "Speed": 50
+        }
+    },
+    {
+        "name": "Tangela",
+        "Type": ["Grass"],
+        "level": 36,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 55,
+            "Defense": 115,
+            "Special Attack": 100,
+            "Special Defense": 40,
+            "Speed": 60
+        }
+    },
+    {
+        "name": "Kangaskhan",
+        "Type": ["Normal"],
+        "level": 52,
+        "base_stats": {
+            "HP": 105,
+            "Attack": 95,
+            "Defense": 80,
+            "Special Attack": 40,
+            "Special Defense": 80,
+            "Speed": 90
+        }
+    },
+    {
+        "name": "Horsea",
+        "Type": ["Water"],
+        "level": 14,
+        "base_stats": {
+            "HP": 30,
+            "Attack": 40,
+            "Defense": 70,
+            "Special Attack": 70,
+            "Special Defense": 25,
+            "Speed": 60
+        }
+    },
+    {
+        "name": "Seadra",
+        "Type": ["Water"],
+        "level": 37,
+        "base_stats": {
+            "HP": 55,
+            "Attack": 65,
+            "Defense": 95,
+            "Special Attack": 95,
+            "Special Defense": 45,
+            "Speed": 85
+        }
+    },
+    {
+        "name": "Goldeen",
+        "Type": ["Water"],
+        "level": 16,
+        "base_stats": {
+            "HP": 45,
+            "Attack": 67,
+            "Defense": 60,
+            "Special Attack": 35,
+            "Special Defense": 50,
+            "Speed": 63
+        }
+    },
+    {
+        "name": "Seaking",
+        "Type": ["Water"],
+        "level": 40,
+        "base_stats": {
+            "HP": 80,
+            "Attack": 92,
+            "Defense": 65,
+            "Special Attack": 65,
+            "Special Defense": 80,
+            "Speed": 68
+        }
+    },
+    {
+        "name": "Staryu",
+        "Type": ["Water"],
+        "level": 18,
+        "base_stats": {
+            "HP": 30,
+            "Attack": 45,
+            "Defense": 55,
+            "Special Attack": 70,
+            "Special Defense": 55,
+            "Speed": 85
+        }
+    },
+    {
+        "name": "Starmie",
+        "Type": ["Water", "Psychic"],
+        "level": 45,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 75,
+            "Defense": 85,
+            "Special Attack": 100,
+            "Special Defense": 85,
+            "Speed": 115
+        }
+    },
+    {
+        "name": "Mr. Mime",
+        "Type": ["Psychic", "Fairy"],
+        "level": 42,
+        "base_stats": {
+            "HP": 40,
+            "Attack": 45,
+            "Defense": 65,
+            "Special Attack": 100,
+            "Special Defense": 120,
+            "Speed": 90
+        }
+    },
+    {
+        "name": "Scyther",
+        "Type": ["Bug", "Flying"],
+        "level": 47,
+        "base_stats": {
+            "HP": 70,
+            "Attack": 110,
+            "Defense": 80,
+            "Special Attack": 55,
+            "Special Defense": 80,
+            "Speed": 105
+        }
+    },
+    {
+        "name": "Jynx",
+        "Type": ["Ice", "Psychic"],
+        "level": 43,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 50,
+            "Defense": 35,
+            "Special Attack": 115,
+            "Special Defense": 95,
+            "Speed": 95
+        }
+    },
+    {
+        "name": "Electabuzz",
+        "Type": ["Electric"],
+        "level": 48,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 83,
+            "Defense": 57,
+            "Special Attack": 95,
+            "Special Defense": 85,
+            "Speed": 105
+        }
+    },
+    {
+        "name": "Magmar",
+        "Type": ["Fire"],
+        "level": 48,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 95,
+            "Defense": 57,
+            "Special Attack": 100,
+            "Special Defense": 85,
+            "Speed": 93
+        }
+    },
+    {
+        "name": "Pinsir",
+        "Type": ["Bug"],
+        "level": 46,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 125,
+            "Defense": 100,
+            "Special Attack": 55,
+            "Special Defense": 70,
+            "Speed": 85
+        }
+    },
+    {
+        "name": "Tauros",
+        "Type": ["Normal"],
+        "level": 50,
+        "base_stats": {
+            "HP": 75,
+            "Attack": 100,
+            "Defense": 95,
+            "Special Attack": 40,
+            "Special Defense": 70,
+            "Speed": 110
+        }
+    },
+    {
+        "name": "Magikarp",
+        "Type": ["Water"],
+        "level": 5,
+        "base_stats": {
+            "HP": 20,
+            "Attack": 10,
+            "Defense": 55,
+            "Special Attack": 15,
+            "Special Defense": 20,
+            "Speed": 80
+        }
+    },
+    {
+        "name": "Gyarados",
+        "Type": ["Water", "Flying"],
+        "level": 55,
+        "base_stats": {
+            "HP": 95,
+            "Attack": 125,
+            "Defense": 79,
+            "Special Attack": 60,
+            "Special Defense": 100,
+            "Speed": 81
+        }
+    },
+    {
+        "name": "Lapras",
+        "Type": ["Water", "Ice"],
+        "level": 53,
+        "base_stats": {
+        "HP": 130,
+            "Attack": 85,
+            "Defense": 80,
+            "Special Attack": 85,
+            "Special Defense": 95,
+            "Speed": 60
+        }
+    },
+    {
+        "name": "Ditto",
+        "Type": ["Normal"],
+        "level": 30,
+        "base_stats": {
+            "HP": 48,
+            "Attack": 48,
+            "Defense": 48,
+            "Special Attack": 48,
+            "Special Defense": 48,
+            "Speed": 48
+        }
+    },
+    {
+        "name": "Eevee",
+        "Type": ["Normal"],
+        "level": 20,
+        "base_stats": {
+            "HP": 55,
+            "Attack": 50,
+            "Defense": 45,
+            "Special Attack": 45,
+            "Special Defense": 65,
+            "Speed": 55
+        }
+    },
+    {
+        "name": "Vaporeon",
+        "Type": ["Water"],
+        "level": 45,
+        "base_stats": {
+            "HP": 130,
+            "Attack": 65,
+            "Defense": 60,
+            "Special Attack": 110,
+            "Special Defense": 95,
+            "Speed": 65
+        }
+    },
+    {
+        "name": "Jolteon",
+        "Type": ["Electric"],
+        "level": 45,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 65,
+            "Defense": 60,
+            "Special Attack": 110,
+            "Special Defense": 95,
+            "Speed": 130
+        }
+    },
+    {
+        "name": "Flareon",
+        "Type": ["Fire"],
+        "level": 45,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 130,
+            "Defense": 60,
+            "Special Attack": 95,
+            "Special Defense": 110,
+            "Speed": 65
+        }
+    },
+    {
+        "name": "Porygon",
+        "Type": ["Normal"],
+        "level": 33,
+        "base_stats": {
+            "HP": 65,
+            "Attack": 60,
+            "Defense": 70,
+            "Special Attack": 85,
+            "Special Defense": 75,
+            "Speed": 40
+        }
+    },
+    {
+        "name": "Omanyte",
+        "Type": ["Rock", "Water"],
+        "level": 16,
+        "base_stats": {
+            "HP": 35,
+            "Attack": 40,
+            "Defense": 100,
+            "Special Attack": 90,
+            "Special Defense": 55,
+            "Speed": 35
+        }
+    },
+    {
+        "name": "Omastar",
+        "Type": ["Rock", "Water"],
+        "level": 44,
+        "base_stats": {
+            "HP": 70,
+            "Attack": 60,
+            "Defense": 125,
+            "Special Attack": 115,
+            "Special Defense": 70,
+            "Speed": 55
+        }
+    },
+    {
+        "name": "Kabuto",
+        "Type": ["Rock", "Water"],
+        "level": 15,
+        "base_stats": {
+            "HP": 30,
+            "Attack": 80,
+            "Defense": 90,
+            "Special Attack": 55,
+            "Special Defense": 45,
+            "Speed": 55
+        }
+    },
+    {
+        "name": "Kabutops",
+        "Type": ["Rock", "Water"],
+        "level": 43,
+        "base_stats": {
+            "HP": 60,
+            "Attack": 115,
+            "Defense": 105,
+            "Special Attack": 65,
+            "Special Defense": 70,
+            "Speed": 80
+        }
+    },
+    {
+        "name": "Aerodactyl",
+        "Type": ["Rock", "Flying"],
+        "level": 50,
+        "base_stats": {
+            "HP": 80,
+            "Attack": 105,
+            "Defense": 65,
+            "Special Attack": 60,
+            "Special Defense": 75,
+            "Speed": 130
+        }
+    },
+    {
+        "name": "Snorlax",
+        "Type": ["Normal"],
+        "level": 55,
+        "base_stats": {
+            "HP": 160,
+            "Attack": 110,
+            "Defense": 65,
+            "Special Attack": 65,
+            "Special Defense": 110,
+            "Speed": 30
+        }
+    },
+    {
+        "name": "Articuno",
+        "Type": ["Ice", "Flying"],
+        "level": 70,
+        "base_stats": {
+            "HP": 90,
+            "Attack": 85,
+            "Defense": 100,
+            "Special Attack": 95,
+            "Special Defense": 125,
+            "Speed": 85
+        }
+    },
+    {
+        "name": "Zapdos",
+        "Type": ["Electric", "Flying"],
+        "level": 70,
+        "base_stats": {
+            "HP": 90,
+            "Attack": 90,
+            "Defense": 85,
+            "Special Attack": 125,
+            "Special Defense": 90,
+            "Speed": 100
+        }
+    },
+    {
+        "name": "Moltres",
+        "Type": ["Fire", "Flying"],
+        "level": 70,
+        "base_stats": {
+            "HP": 90,
+            "Attack": 100,
+            "Defense": 90,
+            "Special Attack": 125,
+            "Special Defense": 85,
+            "Speed": 90
+        }
+    },
+    {
+        "name": "Dratini",
+        "Type": ["Dragon"],
+        "level": 18,
+        "base_stats": {
+            "HP": 41,
+            "Attack": 64,
+            "Defense": 45,
+            "Special Attack": 50,
+            "Special Defense": 50,
+            "Speed": 50
+        }
+    },
+    {
+        "name": "Dragonair",
+        "Type": ["Dragon"],
+        "level": 36,
+        "base_stats": {
+            "HP": 61,
+            "Attack": 84,
+            "Defense": 65,
+            "Special Attack": 70,
+            "Special Defense": 70,
+            "Speed": 70
+        }
+    },
+    {
+        "name": "Dragonite",
+        "Type": ["Dragon", "Flying"],
+        "level": 65,
+        "base_stats": {
+            "HP": 91,
+            "Attack": 134,
+            "Defense": 95,
+            "Special Attack": 100,
+            "Special Defense": 100,
+            "Speed": 80
+        }
+    },
+    {
+    "name": "Mewtwo",
+        "Type": ["Psychic"],
+        "level": 75,
+        "base_stats": {
+            "HP": 106,
+            "Attack": 110,
+            "Defense": 90,
+            "Special Attack": 154,
+            "Special Defense": 90,
+            "Speed": 130
+    }
+    },
+    {
+        "name": "Mew",
+        "Type": ["Psychic"],
+        "level": 70,
+        "base_stats": {
+            "HP": 100,
+            "Attack": 100,
+            "Defense": 100,
+            "Special Attack": 100,
+            "Special Defense": 100,
+            "Speed": 100
+        }
+    }
+]    

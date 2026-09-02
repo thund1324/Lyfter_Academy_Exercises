@@ -1,0 +1,73 @@
+[
+    {
+        "name": "Bulbasaur",
+        "Type": [
+            "Grass",
+            "Poison"
+        ],
+        "base_stats": {
+            "HP": 45,
+            "Attack": 49,
+            "Defense": 49,
+            "Special Attack": 65,
+            "Special Defense": 65,
+            "Speed": 45
+        }
+    },
+    {
+        "name": "Charmander",
+        "Type": [
+            "Fire"
+        ],
+        "base_stats": {
+            "HP": 39,
+            "Attack": 52,
+            "Defense": 43,
+            "Special Attack": 60,
+            "Special Defense": 50,
+            "Speed": 65
+        }
+    },
+    {
+        "name": "Squirtle",
+        "Type": [
+            "Water"
+        ],
+        "base_stats": {
+            "HP": 44,
+            "Attack": 48,
+            "Defense": 65,
+            "Special Attack": 50,
+            "Special Defense": 64,
+            "Speed": 43
+        }
+    },
+    {
+        "name": "Pikachu",
+        "Type": [
+            "Electrico"
+        ],
+        "base_stats": {
+            "HP": 35,
+            "Attack": 55,
+            "Defense": 40,
+            "Special Attack": 50,
+            "Special Defense": 50,
+            "Speed": 90
+        }
+    },
+    {
+        "name": "Eevee",
+        "Type": [
+            "Normal"
+        ],
+        "base_stats": {
+            "HP": 55,
+            "Attack": 50,
+            "Defense": 45,
+            "Special Attack": 65,
+            "Special Defense": 55,
+            "Speed": 55
+        }
+    }
+]
