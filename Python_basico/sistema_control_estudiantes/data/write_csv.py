@@ -1,18 +1,21 @@
 import csv
-    
-def write_csv(student):
-    file_exists = False
-    try:
-        with open('students.csv', 'r', encoding='utf-8') as f:
-            file_exists = True
-    except FileNotFoundError:
-        pass
 
-    with open('students.csv', 'a', newline='', encoding='utf-8') as file:
-        headers = student.keys()
+
+def write_csv(students):
+
+    if not students:
+        print()
+        print("There are no students to export.")
+        print()
+        return
+
+    with open('students.csv', 'w', newline='', encoding='utf-8') as file:
+
+        headers = students[0].keys()
+
         writer = csv.DictWriter(file, fieldnames=headers)
 
-        if not file_exists:
-            writer.writeheader()
+        writer.writeheader()
 
-        writer.writerow(student)
+        for student in students:
+            writer.writerow(student)
